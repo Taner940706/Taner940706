@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taner940706" alt="taner940706" /></a> </p>
 
-- 🔭 I’m currently working on [Crypto FastAPI app](https://github.com/Taner940706/crypto-app)
+- 🔭 I’m currently working on [Crypto FastAPI app](https://github.com/Taner940706/crypto-app) and [Dictionary Django APP](https://github.com/Taner940706/dictionary-app)
 
-- 🌱 I’m currently learning **Django and FastAPI**
+- 🌱 I’m currently learning **React and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taner940706](https://github.com/Taner940706)
 
