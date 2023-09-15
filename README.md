@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Crypto FastAPI app](https://github.com/Taner940706/crypto-app) and [Dictionary Django APP](https://github.com/Taner940706/dictionary-app)
 
-- 🌱 I’m currently learning **Flask and MongoDB**
+- 🌱 I’m currently learning **React, Firebase, Pandas, Seaborn**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taner940706](https://github.com/Taner940706)
 
